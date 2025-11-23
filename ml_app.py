@@ -25,7 +25,7 @@ from sklearn.metrics import accuracy_score
 import openpyxl
 # In[6]:
 
-st.set_page_config(page_title="ML APP", layout="wide")
+st.set_page_config(page_title="ML APP", layout="centered")
 st.title("superstore profit prediction app with charts(excel supported)")
 
 uploaded_file = st.file_uploader("superstore.xlsx", type=["xlsx"])
