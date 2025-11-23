@@ -1,1 +1,1 @@
-streamlitpandasnumpymatplotlibplotlyseabornscipystatsmodelssklearnopenpyxl
+streamlitpandasnumpymatplotlibplotlyseabornscipystatsmodelsscikit-learnopenpyxl
